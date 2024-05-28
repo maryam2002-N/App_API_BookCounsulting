@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookConsulting</string>
+    <string name="buttom_text">Search</string>
+    <string name="button_share">Share</string>
+</resources>
